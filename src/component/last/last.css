@@ -1,0 +1,21 @@
+.last {
+  flex-direction: row;
+  display: flex;
+  align-self: center;
+  min-width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+input {
+  width: 600px;
+  height: 53px;
+  padding-left: 50px;
+  font-size: 20px;
+}
+.butt {
+  height: 60px;
+  width: 140px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
